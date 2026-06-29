@@ -1,0 +1,62 @@
+[2026-06-25 11:17:41] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 11:23:30] [INFO] Team logged in | {"team_id":30,"team_name":"SOUTHZONE"}
+[2026-06-25 11:27:05] [INFO] Team logged in | {"team_id":30,"team_name":"SOUTHZONE"}
+[2026-06-25 11:28:14] [INFO] Team logged in | {"team_id":30,"team_name":"SOUTHZONE"}
+[2026-06-25 11:28:48] [INFO] Team logged in | {"team_id":30,"team_name":"SOUTHZONE"}
+[2026-06-25 11:29:06] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-25 11:36:15] [INFO] Team logged in | {"team_id":30,"team_name":"SOUTHZONE"}
+[2026-06-25 11:36:28] [INFO] Team logged out | {"team_id":30}
+[2026-06-25 11:36:36] [INFO] Team logged in | {"team_id":23,"team_name":"Team Sigma"}
+[2026-06-25 11:37:09] [INFO] Team logged out | {"team_id":23}
+[2026-06-25 11:40:31] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 11:57:24] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:27] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:27] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:27] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:28] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:28] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:44] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:45] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:45] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:46] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:46] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:46] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:47] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:47] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:47] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:51] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:57:54] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 11:59:13] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 12:01:51] [ERROR] Error [2]: Undefined array key "rank" in E:\xampp\htdocs\quizapp\admin\dashboard.php on line 391
+[2026-06-25 12:10:47] [INFO] Team logged in | {"team_id":24,"team_name":"Team Tau"}
+[2026-06-25 12:11:08] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 12:14:39] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-25 12:14:46] [INFO] Team logged in | {"team_id":19,"team_name":"Team Xi"}
+[2026-06-25 12:15:10] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 14:10:16] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 14:18:36] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-25 14:18:39] [INFO] Admin logged in | {"admin_id":3,"username":"admin2"}
+[2026-06-25 14:27:58] [ERROR] Database Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[2026-06-25 14:28:07] [ERROR] Database Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[2026-06-25 14:28:28] [ERROR] Database Connection Error: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it
+[2026-06-25 14:51:32] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 15:22:16] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-25 15:22:16] [ERROR] Error [2]: session_destroy(): Trying to destroy uninitialized session in E:\xampp\htdocs\quizapp\includes\Auth.php on line 87
+[2026-06-25 15:22:26] [INFO] Admin logged in | {"admin_id":3,"username":"admin2"}
+[2026-06-25 15:22:47] [INFO] Admin logged out | {"admin_id":3}
+[2026-06-25 15:22:50] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 15:31:09] [INFO] Team logged in | {"team_id":40,"team_name":"DPS"}
+[2026-06-25 15:38:06] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-25 15:38:09] [INFO] Admin logged in | {"admin_id":3,"username":"admin2"}
+[2026-06-25 15:38:14] [INFO] Admin logged out | {"admin_id":3}
+[2026-06-25 15:38:17] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 15:38:19] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-25 15:38:22] [INFO] Admin logged in | {"admin_id":4,"username":"admin3"}
+[2026-06-25 15:38:37] [INFO] Admin logged out | {"admin_id":4}
+[2026-06-25 15:38:41] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 16:21:44] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 16:47:19] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-25 16:47:23] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 17:12:01] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 17:20:22] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-25 17:38:19] [INFO] Admin logged out | {"admin_id":1}

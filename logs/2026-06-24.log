@@ -1,0 +1,71 @@
+[2026-06-24 07:24:56] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 07:26:10] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: INSERT INTO question_options (question_id, option_letter, option_text, is_correct, created_at) VALUES (?, ?, ?, ?, ?)
+[2026-06-24 07:26:13] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: INSERT INTO question_options (question_id, option_letter, option_text, is_correct, created_at) VALUES (?, ?, ?, ?, ?)
+[2026-06-24 07:26:24] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: INSERT INTO question_options (question_id, option_letter, option_text, is_correct, created_at) VALUES (?, ?, ?, ?, ?)
+[2026-06-24 07:38:40] [ERROR] Exception: Call to undefined method Database::prepare()
+[2026-06-24 07:40:33] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: INSERT INTO question_options (question_id, option_letter, option_text, option_image, option_type, is_correct, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)
+[2026-06-24 07:40:48] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: INSERT INTO question_options (question_id, option_letter, option_text, option_image, option_type, is_correct, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)
+[2026-06-24 07:45:22] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 07:45:59] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 07:47:04] [INFO] Team logged in | {"team_id":9,"team_name":"Team Delta"}
+[2026-06-24 07:49:59] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 07:52:38] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 07:53:34] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 07:54:23] [INFO] Team logged in | {"team_id":10,"team_name":"Team Epsilon"}
+[2026-06-24 07:57:50] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 07:57:58] [INFO] Team logged in | {"team_id":25,"team_name":"Team Upsilon"}
+[2026-06-24 08:11:46] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 08:16:52] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 08:23:10] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 08:25:01] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 08:25:07] [WARNING] Failed admin login attempt | {"username":"raushan","ip":"127.0.0.1"}
+[2026-06-24 08:25:14] [WARNING] Failed admin login attempt | {"username":"raushan","ip":"127.0.0.1"}
+[2026-06-24 08:25:17] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 08:25:29] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 08:25:34] [INFO] Admin logged in | {"admin_id":2,"username":"raushan"}
+[2026-06-24 08:25:37] [INFO] Admin logged out | {"admin_id":2}
+[2026-06-24 08:27:06] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 08:30:49] [INFO] Team logged in | {"team_id":20,"team_name":"Team Omicron"}
+[2026-06-24 08:34:12] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 08:34:19] [INFO] Team logged in | {"team_id":16,"team_name":"Team Lambda"}
+[2026-06-24 08:35:12] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 08:35:39] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 08:39:49] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 08:39:56] [INFO] Team logged in | {"team_id":13,"team_name":"Team Theta"}
+[2026-06-24 08:42:47] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 08:53:14] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: UPDATE question_options SET option_text = ?, option_image = ?, option_type = ?, is_correct = ? WHERE id = ?
+[2026-06-24 08:53:35] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: UPDATE question_options SET option_text = ?, option_image = ?, option_type = ?, is_correct = ? WHERE id = ?
+[2026-06-24 08:53:38] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: UPDATE question_options SET option_text = ?, option_image = ?, option_type = ?, is_correct = ? WHERE id = ?
+[2026-06-24 08:54:19] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: UPDATE question_options SET option_text = ?, option_image = ?, option_type = ?, is_correct = ? WHERE id = ?
+[2026-06-24 09:03:49] [ERROR] Query Error: SQLSTATE[23000]: Integrity constraint violation: 1452 Cannot add or update a child row: a foreign key constraint fails (`quiz_app`.`overall_results`, CONSTRAINT `overall_results_ibfk_1` FOREIGN KEY (`team_id`) REFERENCES `teams` (`id`) ON DELETE CASCADE) SQL: INSERT INTO overall_results (team_id, total_marks, total_correct, total_wrong, total_skipped, rounds_completed, percentage, rank) VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+[2026-06-24 09:04:01] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: UPDATE question_options SET option_text = ?, option_image = ?, option_type = ?, is_correct = ? WHERE id = ?
+[2026-06-24 09:04:06] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: UPDATE question_options SET option_text = ?, option_image = ?, option_type = ?, is_correct = ? WHERE id = ?
+[2026-06-24 09:05:46] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: UPDATE question_options SET option_text = ?, option_image = ?, option_type = ?, is_correct = ? WHERE id = ?
+[2026-06-24 09:06:02] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: UPDATE question_options SET option_text = ?, option_image = ?, option_type = ?, is_correct = ? WHERE id = ?
+[2026-06-24 09:06:30] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: UPDATE question_options SET option_text = ?, option_image = ?, option_type = ?, is_correct = ? WHERE id = ?
+[2026-06-24 09:07:37] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 09:10:19] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: UPDATE question_options SET option_text = ?, option_image = ?, option_type = ?, is_correct = ? WHERE id = ?
+[2026-06-24 09:10:22] [ERROR] Query Error: SQLSTATE[42S22]: Column not found: 1054 Unknown column 'is_correct' in 'field list' SQL: UPDATE question_options SET option_text = ?, option_image = ?, option_type = ?, is_correct = ? WHERE id = ?
+[2026-06-24 09:10:35] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 09:10:41] [INFO] Team logged in | {"team_id":12,"team_name":"Team Eta"}
+[2026-06-24 09:10:59] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 09:44:56] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 09:50:36] [INFO] Team logged in | {"team_id":6,"team_name":"1"}
+[2026-06-24 09:51:52] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 09:51:58] [INFO] Team logged in | {"team_id":10,"team_name":"Team Epsilon"}
+[2026-06-24 09:52:43] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 09:56:50] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 09:56:59] [INFO] Team logged in | {"team_id":12,"team_name":"Team Eta"}
+[2026-06-24 09:57:35] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 14:43:05] [INFO] Team logged in | {"team_id":23,"team_name":"Team Sigma"}
+[2026-06-24 14:45:32] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 14:46:04] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 14:46:10] [INFO] Team logged in | {"team_id":7,"team_name":"Team Beta"}
+[2026-06-24 14:46:25] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 14:54:40] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 14:54:50] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-24 14:57:14] [INFO] Team logged in | {"team_id":30,"team_name":"SOUTHZONE"}
+[2026-06-24 14:58:25] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-24 15:14:17] [WARNING] Failed team login attempt | {"username":"team5","ip":"127.0.0.1"}
+[2026-06-24 15:14:25] [INFO] Team logged in | {"team_id":22,"team_name":"Team Rho"}
+[2026-06-24 15:15:06] [INFO] Team logged out | {"team_id":22}

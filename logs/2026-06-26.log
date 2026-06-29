@@ -1,0 +1,56 @@
+[2026-06-26 03:27:59] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 03:30:32] [INFO] Team logged in | {"team_id":32,"team_name":"South Zone"}
+[2026-06-26 03:41:25] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 04:14:40] [WARNING] Failed team login attempt | {"username":"royal","ip":"127.0.0.1"}
+[2026-06-26 04:19:19] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 04:19:35] [WARNING] Failed team login attempt | {"username":"Royal","ip":"127.0.0.1"}
+[2026-06-26 04:19:56] [WARNING] Failed team login attempt | {"username":"Royal","ip":"127.0.0.1"}
+[2026-06-26 04:20:04] [WARNING] Failed team login attempt | {"username":"Royal","ip":"127.0.0.1"}
+[2026-06-26 04:20:34] [INFO] Team logged in | {"team_id":40,"team_name":"DPS"}
+[2026-06-26 04:46:38] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-26 04:46:45] [INFO] Team logged in | {"team_id":33,"team_name":"Dolphin"}
+[2026-06-26 05:25:03] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 05:28:26] [WARNING] Failed team login attempt | {"username":"srgalaxy","ip":"127.0.0.1"}
+[2026-06-26 05:28:37] [INFO] Team logged in | {"team_id":34,"team_name":"SR Galaxy"}
+[2026-06-26 05:38:17] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-26 05:38:23] [INFO] Team logged in | {"team_id":32,"team_name":"South Zone"}
+[2026-06-26 05:39:50] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 05:48:27] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-26 05:48:33] [INFO] Team logged in | {"team_id":36,"team_name":"Alphin"}
+[2026-06-26 05:50:37] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 05:51:29] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-26 06:13:33] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 06:16:37] [WARNING] Failed team login attempt | {"username":"royal","ip":"127.0.0.1"}
+[2026-06-26 06:20:02] [WARNING] Failed team login attempt | {"username":"royal","ip":"127.0.0.1"}
+[2026-06-26 06:20:05] [WARNING] Failed team login attempt | {"username":"royal","ip":"127.0.0.1"}
+[2026-06-26 06:20:15] [WARNING] Failed team login attempt | {"username":"ROYAL","ip":"127.0.0.1"}
+[2026-06-26 06:20:35] [WARNING] Failed team login attempt | {"username":"ROYAL","ip":"127.0.0.1"}
+[2026-06-26 06:20:50] [WARNING] Failed team login attempt | {"username":"ROYAL","ip":"127.0.0.1"}
+[2026-06-26 06:21:07] [INFO] Team logged in | {"team_id":44,"team_name":"Moonlight"}
+[2026-06-26 06:30:27] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-26 06:57:22] [WARNING] Failed team login attempt | {"username":"admin","ip":"127.0.0.1"}
+[2026-06-26 06:57:33] [WARNING] Failed team login attempt | {"username":"sunlight","ip":"127.0.0.1"}
+[2026-06-26 06:57:42] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 08:07:07] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 08:43:42] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 08:43:50] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-26 08:46:38] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 08:46:45] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-26 08:47:00] [INFO] Team logged in | {"team_id":32,"team_name":"South Zone"}
+[2026-06-26 08:48:43] [INFO] Team logged out | {"team_id":32}
+[2026-06-26 08:48:53] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 12:01:15] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 14:10:50] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 14:12:47] [INFO] Team logged in | {"team_id":43,"team_name":"Navdeep"}
+[2026-06-26 14:25:01] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-26 14:25:07] [INFO] Team logged in | {"team_id":38,"team_name":"Gautam"}
+[2026-06-26 14:26:50] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 14:27:28] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-26 14:27:33] [INFO] Team logged in | {"team_id":35,"team_name":"PMC"}
+[2026-06-26 14:28:29] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-26 14:39:42] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-26 14:39:59] [INFO] Team logged in | {"team_id":51,"team_name":"Little Angles"}
+[2026-06-26 14:40:05] [INFO] Team logged out | {"team_id":51}
+[2026-06-26 14:40:20] [INFO] Team logged in | {"team_id":51,"team_name":"Little Angles"}
+[2026-06-26 14:41:55] [INFO] Team logged out | {"team_id":51}
+[2026-06-26 14:45:23] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}

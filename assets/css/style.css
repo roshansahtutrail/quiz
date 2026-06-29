@@ -1,0 +1,84 @@
+/* General Styles */
+body {
+    background: linear-gradient(135deg, #f0f9ff 0%, #e0f2fe 100%);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #1f2937;
+}
+
+.btn-primary {
+    background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
+    border: none;
+    color: white;
+}
+
+.btn-primary:hover {
+    color: white;
+    transform: translateY(-2px);
+    box-shadow: 0 5px 20px rgba(30, 58, 138, 0.4);
+    background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
+}
+
+.badge {
+    padding: 8px 12px;
+    font-weight: 600;
+    background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
+}
+
+.alert {
+    border-radius: 8px;
+    border: none;
+    padding: 15px 20px;
+}
+
+/* Utility */
+.text-gradient {
+    background: linear-gradient(135deg, #1e3a8a 0%, #2563eb 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.shadow-sm-custom {
+    box-shadow: 0 2px 10px rgba(30, 58, 138, 0.12);
+}
+
+.shadow-md-custom {
+    box-shadow: 0 5px 20px rgba(30, 58, 138, 0.15);
+}
+
+.transition-all {
+    transition: all 0.3s ease;
+}
+
+.rounded-lg {
+    border-radius: 12px;
+}
+
+/* Loading */
+.spinner-border {
+    width: 30px;
+    height: 30px;
+    color: #2563eb;
+}
+
+.spinner-small {
+    width: 20px;
+    height: 20px;
+    color: #2563eb;
+}
+
+/* Toast */
+.toast-container {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    z-index: 9999;
+}
+
+.toast {
+    min-width: 300px;
+    box-shadow: 0 5px 20px rgba(30, 58, 138, 0.2);
+    border-radius: 8px;
+    border: none;
+    margin-bottom: 10px;
+}

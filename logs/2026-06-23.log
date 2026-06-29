@@ -1,0 +1,106 @@
+[2026-06-23 09:26:36] [WARNING] Failed admin login attempt | {"username":"admin","ip":"::1"}
+[2026-06-23 09:26:45] [WARNING] Failed admin login attempt | {"username":"admin","ip":"::1"}
+[2026-06-23 09:27:29] [WARNING] Failed admin login attempt | {"username":"admin","ip":"::1"}
+[2026-06-23 09:27:47] [WARNING] Failed admin login attempt | {"username":"admin","ip":"127.0.0.1"}
+[2026-06-23 09:42:09] [WARNING] Failed admin login attempt | {"username":"admin","ip":"127.0.0.1"}
+[2026-06-23 09:55:35] [WARNING] Failed admin login attempt | {"username":"Kittu","ip":"127.0.0.1"}
+[2026-06-23 09:55:39] [WARNING] Failed admin login attempt | {"username":"admin","ip":"127.0.0.1"}
+[2026-06-23 09:55:52] [WARNING] Failed admin login attempt | {"username":"admin","ip":"127.0.0.1"}
+[2026-06-23 09:58:48] [WARNING] Failed admin login attempt | {"username":"admin","ip":"127.0.0.1"}
+[2026-06-23 10:04:03] [WARNING] Failed team login attempt | {"username":"team1","ip":"127.0.0.1"}
+[2026-06-23 10:04:12] [WARNING] Failed team login attempt | {"username":"team1","ip":"127.0.0.1"}
+[2026-06-23 10:09:04] [WARNING] Failed admin login attempt | {"username":"admin","ip":"127.0.0.1"}
+[2026-06-23 10:09:12] [WARNING] Failed admin login attempt | {"username":"admin","ip":"127.0.0.1"}
+[2026-06-23 12:40:17] [WARNING] Failed admin login attempt | {"username":"admin","ip":"::1"}
+[2026-06-23 12:41:15] [WARNING] Failed team login attempt | {"username":"team1","ip":"::1"}
+[2026-06-23 12:42:14] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 12:43:01] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 12:43:18] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:43:41] [WARNING] Failed team login attempt | {"username":"team1","ip":"::1"}
+[2026-06-23 12:44:31] [INFO] Team logged in | {"team_id":6,"team_name":"Team Alpha"}
+[2026-06-23 12:44:31] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:44:37] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:46:23] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:46:26] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:46:31] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:46:41] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:47:09] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:47:52] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-23 12:48:01] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 12:48:07] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:56:10] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:56:23] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:56:28] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:56:32] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:56:36] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:57:51] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 12:57:58] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-23 12:58:14] [INFO] Team logged in | {"team_id":6,"team_name":"Team Alpha"}
+[2026-06-23 12:58:14] [ERROR] Exception: Class "QuestionModel" not found
+[2026-06-23 13:00:38] [ERROR] Error [2]: require_once(E:\xampp\htdocs\quizapp/models/AnswerModel.php): Failed to open stream: No such file or directory in E:\xampp\htdocs\quizapp\quiz\panel.php on line 5
+[2026-06-23 13:00:48] [INFO] Team logged out | {"team_id":6}
+[2026-06-23 13:01:46] [INFO] Team logged in | {"team_id":10,"team_name":"Team Epsilon"}
+[2026-06-23 13:01:46] [ERROR] Error [2]: require_once(E:\xampp\htdocs\quizapp/models/AnswerModel.php): Failed to open stream: No such file or directory in E:\xampp\htdocs\quizapp\quiz\panel.php on line 5
+[2026-06-23 13:10:55] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 13:14:39] [ERROR] Error [2]: Undefined array key "options" in E:\xampp\htdocs\quizapp\quiz\panel.php on line 306
+[2026-06-23 13:21:06] [ERROR] Exception: Non-static method ActivityLog::log() cannot be called statically
+[2026-06-23 13:26:25] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-23 13:26:56] [INFO] Team logged in | {"team_id":7,"team_name":"Team Beta"}
+[2026-06-23 13:26:56] [ERROR] Error [2]: Undefined array key "options" in E:\xampp\htdocs\quizapp\quiz\panel.php on line 306
+[2026-06-23 13:30:44] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 13:36:52] [INFO] Team logged in | {"team_id":6,"team_name":"Team Alpha"}
+[2026-06-23 13:36:52] [ERROR] Error [2]: Undefined array key "leader_name" in E:\xampp\htdocs\quizapp\quiz\panel.php on line 626
+[2026-06-23 13:37:15] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-23 13:37:31] [INFO] Team logged in | {"team_id":7,"team_name":"Team Beta"}
+[2026-06-23 13:37:31] [ERROR] Error [2]: Undefined array key "leader_name" in E:\xampp\htdocs\quizapp\quiz\panel.php on line 626
+[2026-06-23 13:39:15] [WARNING] Failed admin login attempt | {"username":"admin","ip":"127.0.0.1"}
+[2026-06-23 13:39:24] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 13:41:52] [ERROR] Exception: Non-static method ActivityLog::log() cannot be called statically
+[2026-06-23 13:43:04] [ERROR] Error [2]: Undefined array key "leader_name" in E:\xampp\htdocs\quizapp\quiz\panel.php on line 648
+[2026-06-23 14:05:27] [ERROR] Error [2]: Undefined array key "leader_name" in E:\xampp\htdocs\quizapp\quiz\panel.php on line 626
+[2026-06-23 14:10:04] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 14:13:10] [INFO] Team logged in | {"team_id":8,"team_name":"Team Gamma"}
+[2026-06-23 14:14:22] [INFO] Team logged in | {"team_id":6,"team_name":"Team Alpha"}
+[2026-06-23 14:20:35] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-23 14:20:42] [INFO] Team logged in | {"team_id":25,"team_name":"Team Upsilon"}
+[2026-06-23 14:20:53] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 14:21:18] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 14:21:22] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-23 14:21:27] [INFO] Admin logged in | {"admin_id":2,"username":"raushan"}
+[2026-06-23 14:25:43] [ERROR] Exception: Class "ResultModel" not found
+[2026-06-23 14:25:47] [ERROR] Exception: Cannot access private property Database::$connection
+[2026-06-23 14:26:01] [ERROR] Exception: Class "ResultModel" not found
+[2026-06-23 14:29:50] [ERROR] Exception: Class "ResultModel" not found
+[2026-06-23 14:30:56] [ERROR] Exception: Cannot access private property Database::$connection
+[2026-06-23 14:31:04] [ERROR] Exception: Cannot access private property Database::$connection
+[2026-06-23 14:31:40] [ERROR] Exception: Cannot access private property Database::$connection
+[2026-06-23 14:56:22] [INFO] Team logged in | {"team_id":6,"team_name":"Team Alpha"}
+[2026-06-23 15:01:06] [ERROR] Error [2]: require_once(E:\xampp\htdocs\quizapp/models/AnswerModel.php): Failed to open stream: No such file or directory in E:\xampp\htdocs\quizapp\quiz\summary.php on line 11
+[2026-06-23 15:01:15] [ERROR] Error [2]: require_once(E:\xampp\htdocs\quizapp/models/AnswerModel.php): Failed to open stream: No such file or directory in E:\xampp\htdocs\quizapp\quiz\summary.php on line 11
+[2026-06-23 15:02:22] [INFO] Team logged in | {"team_id":6,"team_name":"Team Alpha"}
+[2026-06-23 15:02:45] [ERROR] Error [2]: Undefined array key "is_correct" in E:\xampp\htdocs\quizapp\quiz\summary.php on line 495
+[2026-06-23 15:02:54] [ERROR] Error [2]: Undefined array key "is_correct" in E:\xampp\htdocs\quizapp\quiz\summary.php on line 495
+[2026-06-23 15:03:43] [ERROR] Error [2]: Undefined array key "is_correct" in E:\xampp\htdocs\quizapp\quiz\summary.php on line 495
+[2026-06-23 15:08:57] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 15:12:37] [ERROR] Exception: Call to undefined method TeamModel::insert()
+[2026-06-23 15:12:40] [ERROR] Exception: Call to undefined method TeamModel::insert()
+[2026-06-23 15:12:41] [ERROR] Exception: Call to undefined method TeamModel::insert()
+[2026-06-23 15:12:41] [ERROR] Exception: Call to undefined method TeamModel::insert()
+[2026-06-23 15:12:41] [ERROR] Exception: Call to undefined method TeamModel::insert()
+[2026-06-23 15:12:41] [ERROR] Exception: Call to undefined method TeamModel::insert()
+[2026-06-23 15:12:44] [ERROR] Exception: Call to undefined method TeamModel::insert()
+[2026-06-23 15:28:50] [WARNING] Failed admin login attempt | {"username":"admin","ip":"::1"}
+[2026-06-23 15:29:02] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-23 15:29:20] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 15:31:58] [ERROR] Error [2]: Undefined array key "is_correct" in E:\xampp\htdocs\quizapp\admin\questions.php on line 313
+[2026-06-23 15:32:19] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-23 15:32:22] [ERROR] Error [2]: Undefined array key "is_correct" in E:\xampp\htdocs\quizapp\admin\questions.php on line 313
+[2026-06-23 15:32:26] [ERROR] Error [2]: Undefined array key "is_correct" in E:\xampp\htdocs\quizapp\admin\questions.php on line 313
+[2026-06-23 15:33:44] [ERROR] Error [2]: Undefined array key "is_correct" in E:\xampp\htdocs\quizapp\admin\questions.php on line 313
+[2026-06-23 15:33:52] [ERROR] Error [2]: Undefined array key "is_correct" in E:\xampp\htdocs\quizapp\admin\questions.php on line 313
+[2026-06-23 15:34:22] [ERROR] Error [2]: Undefined array key "is_correct" in E:\xampp\htdocs\quizapp\admin\questions.php on line 313
+[2026-06-23 15:35:43] [ERROR] Error [2]: Undefined array key "is_correct" in E:\xampp\htdocs\quizapp\admin\questions.php on line 313
+[2026-06-23 15:38:45] [ERROR] Error [2]: Undefined array key "is_correct" in E:\xampp\htdocs\quizapp\admin\questions.php on line 313
+[2026-06-23 15:58:50] [ERROR] Exception: Call to undefined method Database::prepare()
+[2026-06-23 15:59:55] [ERROR] Exception: Call to undefined method Database::prepare()
+[2026-06-23 16:01:48] [ERROR] Exception: Call to undefined method Database::prepare()

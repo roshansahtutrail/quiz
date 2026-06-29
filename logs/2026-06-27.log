@@ -1,0 +1,30 @@
+[2026-06-27 14:35:07] [WARNING] Failed team login attempt | {"username":"admin","ip":"127.0.0.1"}
+[2026-06-27 14:35:22] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-27 14:40:59] [INFO] Team logged in | {"team_id":32,"team_name":"South Zone"}
+[2026-06-27 14:44:03] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-27 14:44:08] [INFO] Team logged in | {"team_id":40,"team_name":"DPS"}
+[2026-06-27 14:44:20] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-27 14:53:31] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-27 14:54:54] [INFO] Team logged in | {"team_id":51,"team_name":"Little Angles"}
+[2026-06-27 14:56:11] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-27 14:59:18] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-27 14:59:27] [INFO] Team logged in | {"team_id":33,"team_name":"Dolphin"}
+[2026-06-27 15:02:48] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-27 15:04:51] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-27 15:04:56] [INFO] Team logged in | {"team_id":35,"team_name":"PMC"}
+[2026-06-27 15:13:46] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-27 15:23:10] [INFO] Team logged in | {"team_id":36,"team_name":"Alphin"}
+[2026-06-27 16:24:16] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-27 16:25:13] [INFO] Team logged in | {"team_id":44,"team_name":"Moonlight"}
+[2026-06-27 16:26:41] [INFO] Team logged out | {"team_id":44}
+[2026-06-27 16:26:47] [WARNING] Failed team login attempt | {"username":"sunlight","ip":"127.0.0.1"}
+[2026-06-27 16:27:54] [INFO] Team logged in | {"team_id":43,"team_name":"Navdeep"}
+[2026-06-27 16:47:07] [INFO] Team logged out | {"team_id":43}
+[2026-06-27 16:47:23] [INFO] Team logged in | {"team_id":38,"team_name":"Gautam"}
+[2026-06-27 16:50:46] [INFO] Team logged out | {"team_id":38}
+[2026-06-27 16:50:58] [INFO] Team logged in | {"team_id":32,"team_name":"South Zone"}
+[2026-06-27 16:56:14] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-27 16:56:42] [INFO] Team logged out | {"team_id":32}
+[2026-06-27 16:56:47] [INFO] Team logged in | {"team_id":43,"team_name":"Navdeep"}
+[2026-06-27 16:58:08] [INFO] Team logged out | {"team_id":43}
+[2026-06-27 16:58:14] [INFO] Team logged in | {"team_id":44,"team_name":"Moonlight"}

@@ -1,0 +1,14 @@
+[2026-06-29 00:34:39] [INFO] Team logged in | {"team_id":32,"team_name":"South Zone"}
+[2026-06-29 00:35:12] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-29 00:42:12] [INFO] Admin logged out | {"admin_id":1}
+[2026-06-29 00:42:18] [INFO] Team logged in | {"team_id":33,"team_name":"Dolphin"}
+[2026-06-29 00:43:49] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-29 03:29:24] [INFO] Team logged in | {"team_id":32,"team_name":"South Zone"}
+[2026-06-29 03:29:53] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-29 03:44:31] [INFO] Team logged in | {"team_id":33,"team_name":"Dolphin"}
+[2026-06-29 03:47:09] [INFO] Team logged out | {"team_id":33}
+[2026-06-29 03:47:24] [WARNING] Failed team login attempt | {"username":"alpine","ip":"127.0.0.1"}
+[2026-06-29 03:47:33] [WARNING] Failed team login attempt | {"username":"alpine","ip":"127.0.0.1"}
+[2026-06-29 03:47:45] [INFO] Team logged in | {"team_id":44,"team_name":"Moonlight"}
+[2026-06-29 03:49:17] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
+[2026-06-29 03:56:32] [INFO] Admin logged in | {"admin_id":1,"username":"admin"}
